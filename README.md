@@ -8,6 +8,9 @@ Ben Coleman
 
 
 ## Setup
+Before you begin work with this repo, run the following commands:
+Before you begin work with this repo, run the following commands:
+Before you begin work with this repo, run the following commands:
 
 Before you begin work with this repo, run the following commands:
 
